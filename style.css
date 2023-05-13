@@ -1,0 +1,14 @@
+.border {
+    border-radius: 15px 0 15px 0;
+}
+.csuszka_magassag {
+    height: 600px;
+}
+.kep_magassag {
+    height: 100%;
+    object-fit: cover;
+}
+.video {
+    height: 100%;
+    width: 100%;
+}
